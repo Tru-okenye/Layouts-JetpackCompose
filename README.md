@@ -23,5 +23,13 @@ The app simulates a simple **user profile UI** with a profile section, action bu
 ✅ Easy to extend for real apps
 
 ---
+## 🧑‍💻 Built With
+
+- [Kotlin](https://kotlinlang.org/)
+- [Jetpack Compose](https://developer.android.com/jetpack/compose)
+- [Material 3](https://m3.material.io/)
+- Android Studio (Flamingo/Hedgehog+)
+
+---
 
 
